@@ -3,7 +3,7 @@
 
 ### this repo is dedicated to our project in AI Artathon 2.0.
 
-## Reem Alsaeedy, Tahani Almutairi, Mashael ALsaeed
+#### Reem Alsaeedy, Tahani Almutairi, Mashael ALsaeed
 
 
 we are a team of 3 people one artist and two AI developers, our project is inspired by a Series called Squid Game which opens too many questions and thoughts.
