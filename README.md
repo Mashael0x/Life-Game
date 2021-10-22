@@ -3,7 +3,7 @@
 ### this repo is dedicated to our project in AI Artathon 2.0.
 
 
-we are a team of 3 people on artist and two AI developers, our work is inspired by a Series called Squid Game which opens too many questions and thoughts about humans behavior.
+we are a team of 3 people one artist and two AI developers, our project is inspired by a Series called Squid Game which opens too many questions and thoughts.
 our artist Reem draw this piece of art.
 
 ![art](https://github.com/Mashael0x/Life-Game/blob/main/style%20image.png)
